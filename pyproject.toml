@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "memory-agent-lab17"
+version = "0.1.0"
+description = "Multi-memory agent for Lab #17 with LangGraph, OpenAI CLI, and benchmark reporting."
+readme = "README.md"
+requires-python = ">=3.12"
+
+[project.optional-dependencies]
+langgraph = ["langgraph"]
+redis = ["redis>=5.0"]
+semantic = ["chromadb>=0.5"]
+cli = ["openai>=1,<2"]
+dev = ["pytest>=9.0"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+filterwarnings = [
+  "ignore:legacy embedding function config:DeprecationWarning:chromadb.api.collection_configuration",
+]
