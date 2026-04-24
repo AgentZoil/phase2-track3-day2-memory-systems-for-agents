@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "name": "Minh",
+    "location": "Đà Nẵng",
+    "preference": "học buổi sáng"
+  },
+  "provenance": {
+    "name": {
+      "source": "Tôi tên là Minh.",
+      "updated_at": "2026-04-24T14:14:00.048128+00:00"
+    },
+    "location": {
+      "source": "Tôi sống ở Đà Nẵng.",
+      "updated_at": "2026-04-24T14:14:00.049352+00:00"
+    },
+    "preference": {
+      "source": "Tôi thích học buổi sáng.",
+      "updated_at": "2026-04-24T14:14:00.050276+00:00"
+    }
+  }
+}

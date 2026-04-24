@@ -1,0 +1,11 @@
+{
+  "facts": {
+    "preference": "trà nóng hơn cà phê"
+  },
+  "provenance": {
+    "preference": {
+      "source": "À nhầm, tôi thích trà nóng hơn cà phê.",
+      "updated_at": "2026-04-24T14:13:59.924059+00:00"
+    }
+  }
+}

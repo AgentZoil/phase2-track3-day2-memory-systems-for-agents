@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "name": "An",
+    "location": "Huế",
+    "preference": "trà"
+  },
+  "provenance": {
+    "name": {
+      "source": "Tôi tên là An.",
+      "updated_at": "2026-04-24T14:14:00.079263+00:00"
+    },
+    "location": {
+      "source": "Tôi sống ở Huế.",
+      "updated_at": "2026-04-24T14:14:00.080170+00:00"
+    },
+    "preference": {
+      "source": "Tôi thích trà.",
+      "updated_at": "2026-04-24T14:14:00.081234+00:00"
+    }
+  }
+}

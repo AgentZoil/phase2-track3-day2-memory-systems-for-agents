@@ -1,0 +1,26 @@
+{
+  "facts": {
+    "name": "Linh",
+    "location": "Hanoi",
+    "allergy": "đậu nành",
+    "preference": "học buổi sáng"
+  },
+  "provenance": {
+    "name": {
+      "source": "Tôi tên là Linh.",
+      "updated_at": "2026-04-24T14:29:58.859477+00:00"
+    },
+    "location": {
+      "source": "I live in Hanoi.",
+      "updated_at": "2026-04-24T14:11:12.879902+00:00"
+    },
+    "allergy": {
+      "source": "À nhầm, tôi dị ứng đậu nành chứ không phải sữa bò.",
+      "updated_at": "2026-04-24T14:29:58.861949+00:00"
+    },
+    "preference": {
+      "source": "Tôi thích học buổi sáng.",
+      "updated_at": "2026-04-24T13:55:08.107491+00:00"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "facts": {
+    "location": "Hà Nội"
+  },
+  "provenance": {
+    "location": {
+      "source": "Tôi sống ở Hà Nội.",
+      "updated_at": "2026-04-24T14:13:59.865765+00:00"
+    }
+  }
+}

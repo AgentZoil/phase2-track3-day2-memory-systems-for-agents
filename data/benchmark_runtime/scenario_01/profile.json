@@ -1,0 +1,16 @@
+{
+  "facts": {
+    "name": "Linh",
+    "preference": "trà sữa"
+  },
+  "provenance": {
+    "name": {
+      "source": "Chào, tôi tên là Linh.",
+      "updated_at": "2026-04-24T14:13:59.836423+00:00"
+    },
+    "preference": {
+      "source": "Tôi thích trà sữa.",
+      "updated_at": "2026-04-24T14:13:59.837872+00:00"
+    }
+  }
+}
